@@ -1,13 +1,11 @@
 
-  # 👋 Hello，here is Zephyr Zhong
+  # 👋 Hello，here is 量子幻海   🌊
   
-  <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
-
+ 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
     <p align="center">
-    <a href="https://github.com/zyh3699"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://github.com/horysk"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:zephyrzhong248@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.kaggle.com/ZephyrZhong248"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
     <a href="https://orcid.org/0009-0003-0132-2036"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
@@ -20,13 +18,13 @@
 
 <!-- 动态访问计数器 - 增强效果 -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
-    <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
-    <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+    <img src="https://komarev.com/ghpvc/?username=horysk&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+    <img src="https://img.shields.io/github/followers/horysk?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+    <img src="https://img.shields.io/github/stars/horysk?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
     
   </p>
   <p>
-  <img src="https://profile-counter.glitch.me/{zyh3699}/count.svg" alt="访问计数器" />
+  <img src="https://profile-counter.glitch.me/{horysk}/count.svg" alt="访问计数器" />
   </p>
 </div>
 
@@ -109,14 +107,14 @@
 <!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
 <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=horysk&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=horysk&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=horysk&theme=radical" width="33%" />
 
 </div>
   
   <!-- 添加动态贡献热图 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=zyh3699&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
+  <img src="https://github-profile-trophy.vercel.app/?username=horysk&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
 </div>
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
@@ -126,17 +124,17 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/zyh3699/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  <a href="https://github.com/horysk/dream-maze">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=horysk&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
-  <a href="https://github.com/zyh3699/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  <a href="https://github.com/horysk/doctopus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=horysk&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
 
 <!-- 添加项目按钮 -->
 <div align="center">
-  <a href="https://github.com/zyh3699?tab=repositories">
+  <a href="https://github.com/horysk?tab=repositories">
     <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
   </a>
 </div>
@@ -157,7 +155,7 @@
 </picture>
 
 <!-- 实时贡献日历热图 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=horysk&theme=radical" width="100%" />
 </div>
 
 <!-- 使用SVG制作的动态语录 -->
