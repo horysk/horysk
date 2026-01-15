@@ -23,9 +23,9 @@
     <img src="https://img.shields.io/github/stars/horysk?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
     
   </p>
-  <p>
+  <!-- <p>
   <img src="https://profile-counter.glitch.me/{horysk}/count.svg" alt="访问计数器" />
-  </p>
+  </p> -->
 </div>
 
 <!-- 添加动态波浪分隔符 -->
@@ -114,7 +114,7 @@
 </div>
   
   <!-- 添加动态贡献热图 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=horysk&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=horysk&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" /> -->
 </div>
 
 
