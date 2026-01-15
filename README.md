@@ -117,34 +117,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=horysk&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
 </div>
 
-<!-- 项目展示部分 - 统一标题样式并对齐图标 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  精选项目
-</h2>
 
-<div align="center">
-  <a href="https://github.com/horysk/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=horysk&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-  <a href="https://github.com/horysk/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=horysk&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-</div>
-
-<!-- 添加项目按钮 -->
-<div align="center">
-  <a href="https://github.com/horysk?tab=repositories">
-    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
-  </a>
-</div>
-
-<!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
-<h2 align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  GitHub 活动
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</h2>
 
 <!-- 贡献蛇形图 - 优化显示效果 -->
 <div align="center">
@@ -162,58 +135,104 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9190&center=true&vCenter=true&random=false&width=600&height=80&lines=%E2%80%9C%E4%BB%A3%E7%A0%81%E6%98%AF%E8%AF%97%EF%BC%8C%E5%A6%82%E6%B0%B4%E8%88%AC%E6%B5%81%E7%95%85%EF%BC%9B%E9%97%AE%E9%A2%98%E6%98%AF%E6%95%8C%EF%BC%8C%E8%A7%A3%E5%86%B3%E6%97%B6%E4%BE%BF%E7%A5%9E%E5%BE%80%E3%80%82%E2%80%9D;%E2%80%9C%E6%8A%80%E6%9C%AF%E6%98%AF%E8%89%BA%E6%9C%AF%EF%BC%8C%E5%88%9B%E6%96%B0%E6%98%AF%E7%94%9F%E5%91%BD%EF%BC%9B%E6%8C%91%E6%88%98%E6%98%AF%E4%BF%A1%E4%BB%B0%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%98%AF%E5%8A%9B%E9%87%8F%E3%80%82%E2%80%9D;%E2%80%9C%E6%AF%8F%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%8C%E9%83%BD%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%9B%BE%E3%80%82%E2%80%9D" alt="编程名言" />
 </div>
-
-<!-- 页脚 - 统一标题样式并对齐图标 -->
-<h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  感谢访问我的 GitHub 主页!
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</h3>
-
-<p align="center">
-  <i>让我们一起探索代码的无限可能!✨</i> 
-</p>
-
-<!-- 添加波浪动画页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
-
-<!-- 动态分隔符 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+<h2 align="center">一个编辑器，一个想法，一个世界</h2>
+<h3 align="center">one ide, one idea, one world</h3>
+<h4 align="center">个人维护AI资讯站：<a href="https://new.horysk.com" alt="AI资讯日报" >AI资讯日报</a></h4>
 </div>
 
-<h2 id="许可协议" align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  许可协议
-</h2>
+  </br>  
+  <h3>💻 GitHub档案</h3>
+    <div style='margin-right:5vw;'>
+        <img align="center" src="https://github-readme-stats-kohl-two-59.vercel.app/api?username=horysk&bg_color=ffffff00&text_color=666666&hide=contribs&show_icons=true&rank_icon=github&locale=cn" />
+        <img align="center" src="https://github-readme-stats-kohl-two-59.vercel.app/api/top-langs/?username=horysk&layout=compact&bg_color=ffffff00&text_color=666666&show_icons=true&locale=cn" />
+    </div>
+  <br/>
 
-<div align="center">
-  <p>本模板采用 <a href="https://opensource.org/licenses/MIT">MIT 许可证</a> 进行授权</p>
+  <h3>🔥 我的贡献</h3>
+    <p>
+      <img align="center" src="https://github-readme-streak-stats-rho-lime.vercel.app?user=horysk&border_radius=12&locale=zh_Hans&card_width=755" alt="GitHub Streak" />
+    </p>
+  <br/>
   
-  <p>您可以自由地：</p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>✅ 使用本模板创建个人 GitHub Profile</li>
-    <li>✅ 修改和定制以满足您的需求</li>
-    <li>✅ 分发您修改后的版本</li>
-  </ul>
-  
-  <p>条件是：</p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>📝 保留原始版权声明</li>
-    <li>📝 不追究作者责任</li>
-  </ul>
-  
-  <p>
-    <a href="https://opensource.org/licenses/MIT">
-      <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License" />
-    </a>
-  </p>
-</div>
-
-<!-- 页脚 -->
-<p align="center">
-  <i>如果您觉得这个模板有帮助，请考虑给一个⭐️支持一下!</i> 
-</p>
-
-<!-- 添加波浪动画页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+  <h3>🚀 我的技术栈</h3>
+  <table>
+    <tr>
+      <td align="center"><strong>分类</strong></td>
+      <td><strong>技术徽章</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>开发语言</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Web 框架</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>数据库</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>版本与部署</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubesphere-3299CC?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>大数据 & 其它</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>AI大模型</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude-D97E74?style=for-the-badge&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/通义千问-FF9900?style=for-the-badge&logo=alibabacloud&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>开发工具</strong></td>
+      <td>
+        <!-- IDE & 编辑器 -->
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude_Code-D97E74?style=for-the-badge&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kilo-555555?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Trae-555555?style=for-the-badge"/>
+        <br/>
+        <!-- 数据库 & 调试工具 -->
+        <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apifox-FF6600?style=for-the-badge&logo=apifox&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Charles-1A72E3?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Arthas-009966?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+  <br/>
